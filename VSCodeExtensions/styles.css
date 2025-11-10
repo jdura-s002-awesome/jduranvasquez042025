@@ -1,0 +1,20 @@
+/* this is a css comment */
+/* ? This is a question comment */
+/* ! This is a alert comment */
+/* TODO to do comment */
+/* * regular comment ( different green ) */
+
+body
+{
+    background-color: rgb(255, 233, 251);
+}
+h1
+{
+    color: rgb(245, 225, 200);
+    background-color: white;
+    padding: 1rem;
+}
+ul
+{
+    font-family: 'Courier New', Courier, monospace;
+}
