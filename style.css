@@ -3,19 +3,19 @@ html{
 }
 
 body {
-  background-color: red;
+  background-color: hsl(320, 100%, 98%);
 }
 
 .container {
   min-height: 10rem;
   max-width: 75rem;
   margin: auto;
-  background-color: white;
+  background-color: #ffffff;
   padding: 1rem;
 }
 
 #pageheader {
-  background-color: coral;
+  background-color: hsl(321, 100%, 91%);
   min-height: auto;
   padding: 1rem;
 }
@@ -31,7 +31,7 @@ body {
   text-align: center;
 }
 #media {
-  background-color: lightblue;
+  background-color: hsl(0, 0%, 100%);
   min-height: 10rem;
   padding: 1rem;
   background-image: url(Images/hero.png);
@@ -39,17 +39,17 @@ body {
   aspect-ratio: 16/9;
 }
 #career {
-  background-color: aqua;
+  background-color: hsl(316, 100%, 90%);
   min-height: 10rem;
   padding: 1rem;
 }
 #pagecontent {
-  background-color: orange;
+  background-color: #ffdef7;
   min-height: 10rem;
   padding: 1rem;
 }
 blockquote{
-  color: #ffcced;
+  color: hsl(0, 15%, 30%);
   margin: 0 auto;
   display: block;
   width: 50%;
@@ -63,17 +63,17 @@ span{
   text-align: right;
 }
 #semester1 {
-  background-color: olive;
+  background-color: hsl(320, 100%, 95%);
   min-height: 10rem;
   padding: 1rem;
 }
 #semester2 {
-  background-color: lightsalmon;
+  background-color: hsl(319, 100%, 95%);
   min-height: 10rem;
   padding: 1rem;
 }
 #pagefooter {
-  background-color: lightcoral;
+  background-color: hsl(321, 100%, 87%);
   min-height: auto;
   padding: 1rem;
 }
@@ -83,7 +83,7 @@ span{
   min-height: auto;
 }
 #aifooter{
-  background-color: seagreen;
+  background-color: hsl(317, 100%, 96%);
   padding: 1rem;
   min-height: auto;
 }
@@ -92,7 +92,7 @@ text-align: center;
 min-height: auto;
 }
 #subfooter {
-  background-color: lightseagreen;
+  background-color: hsl(320, 100%, 98%);
   min-height: 10rem;
   padding: 1rem;
   text-align: center;
@@ -100,6 +100,7 @@ min-height: auto;
 audio {
   display: block;
   margin: auto;
-  background-color: red;
-  border: 5px solid red;
+  background-color: hsl(11, 22%, 38%);
+  border: 5px solid hsl(11, 22%, 38%);
 }
+/* hai */
