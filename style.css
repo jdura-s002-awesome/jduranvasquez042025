@@ -26,10 +26,27 @@ body {
   background-image: url(Images/logosmall.png);
 }
 #pageheader .container {
-  background: none;
-  min-height: auto;
+min-height: auto;
+}
+#pageheader nav{
   text-align: center;
 }
+#pageheader nav ul{
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+#pageheader nav ul li{
+  border: 2px solid #f4cdf1;
+  padding: 1rem;
+  background-color: #fff0fb;
+  margin: 2px;
+  border-radius: 10px;
+}
+#pageheader nav ul li:hover{
+  background-color: #f4cdf1;
+}
+
 #media {
   background-color: #ffffff;
   min-height: 10rem;
@@ -100,7 +117,37 @@ min-height: auto;
 audio {
   display: block;
   margin: auto;
-  background-color: #76534c;
-  border: 5px solid #76534c;
+  background-color: #dfa6bf;
+  border: 5px solid #dfa6bf;
+}
+
+@media screen and (min-width: 650px)
+{
+  #pageheader nav ul{
+    background-color: none;
+    margin-top: 2rem;
+  }
+  #pageheader nav ul li{
+    display: inline-block;
+  }
+  #pagecontent
+  {
+    background-color: #ffccf1;
+  }
+  #career{
+    background-color: #ffdef7;
+  }
+
+}
+@media screen and (min-width: 1000px)
+{
+  #pagecontent
+  {
+    background-color: #ffdef7;
+  }
+  #career{
+    background-color: #ffccf1;
+  }
+  
 }
 /* hai */
