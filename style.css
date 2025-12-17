@@ -28,6 +28,10 @@ body {
 #pageheader .container {
 min-height: auto;
 }
+#pageheader a{
+  color: #dfaedc;
+  text-decoration: none;
+}
 #pageheader nav{
   text-align: center;
 }
@@ -37,7 +41,6 @@ min-height: auto;
   padding: 0;
 }
 #pageheader nav ul li{
-  border: 2px solid #f4cdf1;
   padding: 1rem;
   background-color: #fff0fb;
   margin: 2px;
@@ -60,13 +63,26 @@ min-height: auto;
   min-height: 10rem;
   padding: 1rem;
 }
+#pagecontent p{
+  color: #e9a9dc;
+}
+#pagecontent h1{
+  color: #e9a9dc;
+}
+#pagecontent h2{
+  color: #f4cfec;
+}
+#pagecontent span{
+color: #715757;
+
+}
 #pagecontent {
   background-color: #ffdef7;
   min-height: 10rem;
   padding: 1rem;
 }
 blockquote{
-  color: #584141;
+  color: #8a6b6b;
   margin: 0 auto;
   display: block;
   width: 50%;
@@ -79,20 +95,41 @@ span{
   padding: 1rem;
   text-align: right;
 }
+#career h2{
+  color: #e9a9dc;
+}
+#career ul{
+  color: #e4b9e6;
+}
+#semester1 h2{
+  color: #e9a9d1;
+}
 #semester1 {
   background-color: #ffe5f7;
   min-height: 10rem;
   padding: 1rem;
 }
+#semester1 a{
+  color: #e7c5e8;
+}
+#semester2 h2{
+  color: #f7c9e5;
+}
 #semester2 {
   background-color: #ffe5f7;
   min-height: 10rem;
   padding: 1rem;
+  color: #e7c5e8;
 }
 #pagefooter {
   background-color: #ffbde8;
   min-height: auto;
   padding: 1rem;
+  color: #dea3e0;
+}
+#pagefooter a{
+  color: #dea3e0;
+    text-decoration: wavy underline;
 }
 #pagefooter .container {
   background-color: none;
@@ -103,6 +140,11 @@ span{
   background-color: #ffebf9;
   padding: 1rem;
   min-height: auto;
+  color: #ecbaed;
+}
+#aifooter a{
+  color: #ecbaed;
+  text-decoration: wavy underline;
 }
 #aifooter .container {
 text-align: center;
@@ -113,6 +155,7 @@ min-height: auto;
   min-height: 10rem;
   padding: 1rem;
   text-align: center;
+  color: #d9c6d7;
 }
 audio {
   display: block;
