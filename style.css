@@ -121,6 +121,9 @@ span{
   padding: 1rem;
   color: #e7c5e8;
 }
+#semester2 a{
+  color: #e9a9d1;
+}
 #pagefooter {
   background-color: #ffbde8;
   min-height: auto;
