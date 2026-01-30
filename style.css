@@ -3,19 +3,26 @@ html{
 }
 
 body {
-  background-color: #fff5fc;
+  background-color: #ffe2f7;
 }
 
 .container {
   min-height: 10rem;
   max-width: 75rem;
   margin: auto;
-  background-color: #ffffff;
+  background-color: #fffcef;
+  padding: 1rem;
+}
+.media-container {
+  min-height: 10rem;
+  max-width: 75rem;
+  margin: auto;
+  background-color: #ffe2f7;
   padding: 1rem;
 }
 
 #pageheader {
-  background-color: #ffd1ef;
+  background-color: #ffe2f7;
   min-height: auto;
   padding: 1rem;
 }
@@ -29,7 +36,7 @@ body {
 min-height: auto;
 }
 #pageheader a{
-  color: #dfaedc;
+  color: #dfaec6;
   text-decoration: none;
 }
 #pageheader nav{
@@ -42,24 +49,25 @@ min-height: auto;
 }
 #pageheader nav ul li{
   padding: 1rem;
-  background-color: #fff0fb;
+  background-color: #fffade;
+  border : 3px dotted #e9c1d4;
   margin: 2px;
   border-radius: 10px;
 }
 #pageheader nav ul li:hover{
-  background-color: #f4cdf1;
+  background-color: #f4cde0;
 }
 
 #media {
   background-color: #ffffff;
-  min-height: 10rem;
+  min-height: 12rem;
   padding: 1rem;
   background-image: url(Images/hero.png);
   background-size: cover;
   aspect-ratio: 16/9;
 }
 #career {
-  background-color: #ffccf1;
+  background-color: #ffdef7;
   min-height: 10rem;
   padding: 1rem;
 }
@@ -67,13 +75,13 @@ min-height: auto;
   color: #e9a9dc;
 }
 #pagecontent h1{
-  color: #e9a9dc;
+  color: #e2c0d2;
 }
 #pagecontent h2{
-  color: #f4cfec;
+  color: #e2c0d2;
 }
 #pagecontent span{
-color: #715757;
+color: #ddc2d7;
 
 }
 #pagecontent {
@@ -82,7 +90,7 @@ color: #715757;
   padding: 1rem;
 }
 blockquote{
-  color: #8a6b6b;
+  color: #ddc2d7;
   margin: 0 auto;
   display: block;
   width: 50%;
@@ -119,7 +127,7 @@ span{
   background-color: #ffe5f7;
   min-height: 10rem;
   padding: 1rem;
-  color: #e7c5e8;
+  color: #f7c9e5;
 }
 #semester2 a{
   color: #e9a9d1;
@@ -154,7 +162,7 @@ text-align: center;
 min-height: auto;
 }
 #subfooter {
-  background-color: #fff5fc;
+  background-color: #ffedfa;
   min-height: 10rem;
   padding: 1rem;
   text-align: center;
