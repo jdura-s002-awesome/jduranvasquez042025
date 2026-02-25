@@ -1,3 +1,10 @@
+/* Mobile View - Default */
+:root{
+  --primary-color: red;
+--secondary-color: lime;
+--tertiary-color: blue;
+}
+
 html{
   scroll-behavior: smooth;
 }
@@ -31,6 +38,8 @@ body {
   height: 6.32rem;
   background-color: none;
   background-image: url(Images/logosmall.png);
+  border: 1px solid none;
+  margin: auto;
 }
 #pageheader .container {
 min-height: auto;
@@ -70,6 +79,9 @@ min-height: auto;
   background-color: #ffdef7;
   min-height: 10rem;
   padding: 1rem;
+}
+#career a{
+  color: #e3b0e5;
 }
 #pagecontent p{
   color: #e9a9dc;
@@ -175,7 +187,8 @@ audio {
   border: 5px solid #dfa6bf;
 }
 
-@media screen and (min-width: 650px)
+/* Tablet View */
+@media screen and (min-width: 600px)
 {
   #pageheader nav ul{
     background-color: none;
@@ -191,8 +204,12 @@ audio {
   #career{
     background-color: #ffdef7;
   }
+  #logo{
+    margin: 0;
+  }
 
 }
+/* Desktop View */
 @media screen and (min-width: 1000px)
 {
   #pagecontent
@@ -200,7 +217,7 @@ audio {
     background-color: #ffe2f7;
   }
   #career{
-    background-color: #ffccf1;
+    background-color: #ffdef7;
   }
   
 }
