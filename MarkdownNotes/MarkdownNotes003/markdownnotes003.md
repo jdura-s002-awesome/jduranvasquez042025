@@ -1,50 +1,25 @@
-    Julieta Duran Vasquez
-    Period 5
-    History17A
+# Key Moments in the History of the Internet
 
-# Chapter 1: 
-## Americas, Europe, and Africa before 1492
-![Americas, Europe and Africa before 1492](Images/AEA%20map%201942.webp "Americas, Europe and Africa before 1492")
->### 1.1 The Americas
-According to scholars, people migrated from Asia and people spread across North and South America
+![Early ARPANET network map](Images/arpanet_growing.gif "Early ARPANET network map")
 
-_formed diverse society_
+ <sub>Early ARPANET network map</sub>
 
-__Around 10k years ago__
+ ### From the Cold War to the Web
 
-Agriculture emerged in Mesoamerica
+ The internet grew out of Cold Wars fear and the need to keep communications open during a possible nuclear attack. Over time, government research, networking experiments, and new software helped transform ARPANET into the foundation of the modern internet
 
-supported population growth and settlements
+ | Year | Event | Importance |
+| ---------:| -----   | ---- |
+|1957 | Sputnik I launched | The Soviet Union launched Sputnik, increasing U.S. fears during the Space Race. |
+|1958 | ARPA created | The United States created ARPA to support advanced research and defense projects. |
+|1969| ARPANET established| ARPANET linked four universities and became the foundation for the modern internet.|
+| 1971 | First email sent | Ray Tomlinson sent the first email and helped popularize the use of the @ symbol.|
+| 1972| TCP/IP developed| Vinton Cerf and Robert Kahn developed the communication protocls that made network connections more reliable.|
+| 1984 | Internet is born | ARPANET split into MILNET and ARPANET, marking a major step in the birth of the Internet |
+| 1989 | World Wide Web invented | Tim Berners-Lee invented the World Wide Web |
+| 1991 | Web goes public | The World Wide Web became available to the public. |
 
-### The First Americans: The Olmec
-![Olmecs](Images/olmec.png "Olmec Map")
-Mesoamerica - north of Panama to Central Mexico
+> *" The internet has its origin in the fear of nuclear war."*
 
-Fostered advanced civilizations 
+ARPANET was important because it showed that distant computers could communicate across a shared network. It was designed to avoid a single point of failure, and many of its ideas later became part of the internet people use today.
 
->mesoamerican cultures developed,, 
-* Mathematics
-* Calenders
-* Architecture & written languages
-
-### Olmec Civilization
-> #### 1200-400 BC
-___"Mother Culture" of Meso-America___
-* Colossal stone-head
-* pyramids
-* irrigation systems
-
-### The Maya
-
-after the Olmec, teotihuacan rose as a major city near modern Mexico City
-> population over 100k
-
-Teotihuacan had specialized labor
-large apartment complexes,, temples and pyramids
-* ritual human sacrifice
-
-_Maya Civilization_ developed advanced mathematics and writing,, as well as calender systems
-
-___Maya City states: Copán, Tikal, Chichenitzá___
-
-Drought and wars led to decline by early 900s

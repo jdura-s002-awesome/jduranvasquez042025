@@ -1,52 +1,50 @@
     Julieta Duran Vasquez
-    Period 6-7
-    Culinary I
+    Period 5
+    History17A
 
-># Pasta Notes
+# Chapter 1: 
+## Americas, Europe, and Africa before 1492
+![Americas, Europe and Africa before 1492](Images/AEA%20map%201942.webp "Americas, Europe and Africa before 1492")
+>### 1.1 The Americas
+According to scholars, people migrated from Asia and people spread across North and South America
 
-#### ___Pasta:___ A starchy food that expands as cooked
-* 100 of variations in shapes, sizes & color
-* common types include Penne, Spaghetti, Lumacroni, & Fusilli
+_formed diverse society_
 
-![pasta](Images/pasta.png "pasta")
+__Around 10k years ago__
 
-#### 2 ways to determine quality of Pasta
-* ___Flour___: Dry Pasta should contain 100% semolina flour
-* ___Freshness___: Dry Pasta = Hard & Brittle
+Agriculture emerged in Mesoamerica
 
-***Dried Pasta***: Purchased in bags & boxes, not brittle, shouldn't break easily, when storing dried pasta temperature should be 50-70F 
+supported population growth and settlements
 
-***Fresh Pasta***: Made in kitchen, purchased fresh/frozen, wrapped tightly, kept refrigerated
+### The First Americans: The Olmec
+![Olmecs](Images/olmec.png "Olmec Map")
+Mesoamerica - north of Panama to Central Mexico
 
-### **Cooking Pasta**
+Fostered advanced civilizations 
 
-Simple if practicing **mise en place**,
+>mesoamerican cultures developed,, 
+* Mathematics
+* Calenders
+* Architecture & written languages
 
-Some dishes require pasta fully cooked.
+### Olmec Civilization
+> #### 1200-400 BC
+___"Mother Culture" of Meso-America___
+* Colossal stone-head
+* pyramids
+* irrigation systems
 
-* Pasta either boiled or baked,, When Pasta is baked it requires partial boiling beforehand
+### The Maya
 
-####  ***Boiling***
-Can be cooked in large amounts of time, Dried can be cooked ahead of time
+after the Olmec, teotihuacan rose as a major city near modern Mexico City
+> population over 100k
 
-**Boiling Pasta**: At least one gallon of water per pound of pasta, Pot large enough for pasta to move,,
+Teotihuacan had specialized labor
+large apartment complexes,, temples and pyramids
+* ritual human sacrifice
 
-1oz of salt per gallon of water
+_Maya Civilization_ developed advanced mathematics and writing,, as well as calender systems
 
-Boil water fully before adding pasta
+___Maya City states: Copán, Tikal, Chichenitzá___
 
-Test Pasta for Tenderness, Drain w/ Colander
-
-#### ***Baking***
-When baked w/ filling & sauce, flavor blends while baking, some cooked then layered in a casserole, (EX: Lasagna)
-
->Cooking Italian pasta, cook *"Al Dente"* (until pasta tender but still firm)
-
-Each Pasta type has different cooking temps
-
-***Stuffing***: fillings may include cheese, meat, seafoods, poultry & vegetables.
-
-***How to Stuff***: Cook pasta, drain, add sauce too bottom of desired pan, stuff pasta with desired filling, place BACK into baking dish.
-
-## Serving
-Pasta should be served immediately
+Drought and wars led to decline by early 900s
