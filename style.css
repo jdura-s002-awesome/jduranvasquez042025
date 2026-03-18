@@ -5,6 +5,16 @@
 --tertiary-color: blue;
 }
 
+        .card{
+            padding: 1.5rem;
+            background-color: #ffd8f2;
+            width: 80%;
+            margin: auto;
+            margin-bottom: 2rem;
+            border-radius: 1rem;
+            box-shadow: 3px 3px 3px 2px #00000078;
+        }
+
 html{
   scroll-behavior: smooth;
 }
