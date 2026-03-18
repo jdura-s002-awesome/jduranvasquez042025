@@ -7,7 +7,7 @@
     
     <style>
         body{
-            background-color: #fff8d8;
+            background-color: #e5fcff;
         }
 
         h1{
@@ -23,6 +23,7 @@
             margin: auto;
             margin-bottom: 2rem;
             border-radius: 1rem;
+            box-shadow: 3px 3px 3px 2px #00000078;
         }
 
         h2{}
@@ -32,16 +33,59 @@
         #playlist001{}
         #playlist002{}
         #playlist003{}
+
+
+        @media screen and (min-width: 1000px){
+            body{
+                background-color: none;
+            }
+
+            .fbcards{
+                display: flex;
+                gap: 1rem;
+                max-width: 1200px;
+                margin: auto;
+            }
+
+        }
+
     </style>
 
 </head>
 <body>
     <h1>Cards</h1>
 
+<section class="fbcards">
+        <section class="card">
+            <iframe id="playlist001" data-testid="embed-iframe" 
+            style="border-radius:12px" 
+            src="https://open.spotify.com/embed/playlist/3N6GwgWnTNkXXNHZPT8zXO?utm_source=generator" 
+            width="100%" 
+            height="352" 
+            frameBorder="0" 
+            allowfullscreen="" 
+            allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" 
+            loading="lazy">
+            </iframe>
+        </section>
+    
     <section class="card">
-        <iframe id="playlist001" data-testid="embed-iframe" 
+    <iframe data-testid="embed-iframe" 
+    style="border-radius:12px" 
+    src="https://open.spotify.com/embed/playlist/1S7ny7uIEDIhsXQa70SUkg?utm_source=generator" 
+    width="100%" 
+    height="352" 
+    frameBorder="0" 
+    allowfullscreen="" 
+    allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" 
+    loading="lazy">
+    </iframe>
+    </section>
+    
+    <section class="card">
+        <iframe id="playlist003" data-testid="embed-iframe" 
         style="border-radius:12px" 
-        src="https://open.spotify.com/embed/playlist/3N6GwgWnTNkXXNHZPT8zXO?utm_source=generator" 
+        src="https://open.spotify.com/embed/playlist/6ZjcueoHs37tMndh06KYl9?utm_source=generator" 
         width="100%" 
         height="352" 
         frameBorder="0" 
@@ -50,31 +94,6 @@
         loading="lazy">
         </iframe>
     </section>
-
-<section class="card">
-    <iframe id="playlist002" data-testid="embed-iframe" 
-    style="border-radius:12px" 
-    src="https://open.spotify.com/embed/playlist/6phwq1GcT4N7WKWqV55xQW?utm_source=generator" 
-    width="100%" 
-    height="352" 
-    frameBorder="0" 
-    allowfullscreen="" 
-    allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" 
-    loading="lazy">
-    </iframe>
-</section>
-
-<section class="card">
-    <iframe id="playlist003" data-testid="embed-iframe" 
-    style="border-radius:12px" 
-    src="https://open.spotify.com/embed/playlist/6ZjcueoHs37tMndh06KYl9?utm_source=generator" 
-    width="100%" 
-    height="352" 
-    frameBorder="0" 
-    allowfullscreen="" 
-    allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" 
-    loading="lazy">
-    </iframe>
 </section>
     
 </body>
