@@ -5,6 +5,21 @@
 --tertiary-color: blue;
 }
 
+
+  .chiron-goround-tc-maintext {
+    font-family: "Chiron GoRound TC", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 500;
+    font-style: normal;
+  }
+
+  .gochi-hand-regular {
+    font-family: "Gochi Hand", cursive;
+    font-weight: 400;
+    font-style: normal;
+  }
+
+
         .card{
             padding: 1.5rem;
             background-color: #ffd8f2;
