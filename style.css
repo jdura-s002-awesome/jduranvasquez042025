@@ -96,10 +96,10 @@ min-height: auto;
   background-color: #ffffff;
   min-height: 12rem;
   padding: 1rem;
-  background-image: url(Images/hero.png);
   background-size: cover;
   aspect-ratio: 16/9;
-}
+  background-image: linear-gradient(rgba(4, 4, 4, 0), rgb(255, 226, 247)), url(Images/hero.png);
+} 
 #career {
   background-color: #ffdef7;
   min-height: 10rem;
