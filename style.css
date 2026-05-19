@@ -121,6 +121,7 @@ min-height: auto;
 }
 #pagecontent p{
   color: #e9a9dc;
+  line-height: 2rem;
 }
 #pagecontent h1{
   color: #e2c0d2;
