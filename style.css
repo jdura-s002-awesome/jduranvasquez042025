@@ -6,6 +6,7 @@
 }
 
 
+
   .chiron-goround-tc-maintext {
     font-family: "Chiron GoRound TC", sans-serif;
     font-optical-sizing: auto;
@@ -90,21 +91,31 @@ min-height: auto;
 }
 #pageheader nav ul li:hover{
   background-color: #f4cde0;
+  transition: 0.3s;
+  
 }
 
 #media {
   background-color: #ffffff;
-  min-height: 12rem;
+  /* min-height: 10rem; */
+  height: 60vh;
+  background-position: center center;
   padding: 1rem;
   background-size: cover;
-  aspect-ratio: 16/9;
+  /* aspect-ratio: 16/9; */
   background-image: linear-gradient(rgba(4, 4, 4, 0), rgb(255, 226, 247)), url(Images/hero.png);
+  border-radius: .5rem;
 } 
 #career {
   background-color: #ffdef7;
   min-height: 10rem;
   padding: 1rem;
 }
+#career h2:hover{
+  color: #e29cd4;
+  transition: 0.3s;
+}
+
 #career a{
   color: #e3b0e5;
 }
@@ -133,6 +144,15 @@ blockquote{
   width: 50%;
   padding: 1rem;
 }
+blockquote:hover{
+  color: #e9a9dc;
+  transition: 0.3s;
+}
+#pagecontent span:hover{
+  color: #e9a9dc;
+  transition: 0.3s;
+}
+
 span{
   margin: 0 auto;
   display: block;
@@ -145,7 +165,20 @@ span{
 }
 #career ul{
   color: #e4b9e6;
+  list-style-type: none;
 }
+
+#career a{
+  text-decoration: wavy underline;
+}
+
+#career i{
+  color: #ffb3e2;
+  font-size: .8rem;
+  padding-right: .5rem;
+  line-height: 1.5rem;
+}
+
 #semester1 h2{
   color: #e9a9d1;
 }
@@ -154,8 +187,25 @@ span{
   min-height: 10rem;
   padding: 1rem;
 }
+
+#semester1 i{
+  color: #ffc5e9;
+  font-size: .8rem;
+  padding-right: .5rem;
+  line-height: 1.5rem;
+}
+
+#semester1 ul{
+  list-style-type: none;
+}
+
+#semester2 ul{
+  list-style-type: none;
+}
+
 #semester1 a{
   color: #e7c5e8;
+  text-decoration: wavy underline;
 }
 #semester2 h2{
   color: #f7c9e5;
@@ -166,9 +216,65 @@ span{
   padding: 1rem;
   color: #f7c9e5;
 }
+
+#semester2 i{
+  color: #ffade0;
+  font-size: .8rem;
+  padding-right: .5rem;
+  line-height: 1.5rem;
+}
+
 #semester2 a{
   color: #e9a9d1;
+  text-decoration: wavy underline;
 }
+
+#worksamples{
+  background-color: #ffc5ee;
+  min-height: 10rem;
+  padding: 1rem;
+  color: #ffabdf;
+}
+
+#worksamples a{
+  text-decoration: wavy underline;
+  color: #ffabdf;
+}
+
+#worksamples i{
+  color: #ffb1e1;
+  font-size: .8rem;
+  padding-right: .5rem;
+  line-height: 1.5rem;
+}
+
+#worksamples ul{
+  list-style-type: none;
+}
+
+#certificates{
+  background-color: #ffcef1;
+  min-height: 10rem;
+  padding: 1rem;
+  color: #ffb3e2;
+}
+
+#certificates i{
+  color: #ffc5e9;
+  font-size: .8rem;
+  padding-right: .5rem;
+  line-height: 1.5rem;
+}
+
+#certificates ul{
+  list-style-type: none;
+}
+
+#certificates a{
+  text-decoration: wavy underline;
+  color: #ffb7e3;
+}
+
 #pagefooter {
   background-color: #ffbde8;
   min-height: auto;
