@@ -130,27 +130,36 @@ min-height: auto;
   color: #e2c0d2;
 }
 #pagecontent span{
-color: #e9b282;
-
+color: #ffb9f3;
 }
+#pagecontent a{
+text-decoration: none;
+color: #ffb9f3;
+}
+#pagecontent a:hover{
+text-decoration: none;
+color: #e582c1;
+  transition: 0.3s;
+}
+
 #pagecontent {
   background-color: #ffe2f7;
   min-height: 10rem;
   padding: 1rem;
 }
 blockquote{
-  color: #f2a08f;
+  color: #ffa5e1;
   margin: 0 auto;
   display: block;
   width: 50%;
   padding: 1rem;
 }
 blockquote:hover{
-  color: #e58b79;
+  color: #e798de;
   transition: 0.3s;
 }
 #pagecontent span:hover{
-  color: #edac73;
+  color: #e582c1;
   transition: 0.3s;
 }
 
@@ -160,6 +169,7 @@ span{
   width: 50%;
   padding: 1rem;
   text-align: right;
+  text-decoration: none;
 }
 #career h2{
   color: #e9a9dc;
